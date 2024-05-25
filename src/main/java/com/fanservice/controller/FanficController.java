@@ -5,7 +5,6 @@ import com.fanservice.dto.FanficResponseDTO;
 import com.fanservice.dto.FanficsCardResponseDTO;
 import com.fanservice.model.Fanfic;
 import com.fanservice.service.FanficService;
-import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
